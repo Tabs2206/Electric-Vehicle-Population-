@@ -1,11 +1,7 @@
-In this we are trying to visulaize the data on the bases of county. The data is distriuted in washigton State.
+The visualization is to get top 5 county having more no. of electric vehicle.
+=======================================================================
 
-=============================================================================================================
-
-
-Here you'll find the below files
-
-1. one .ipynb file which has been commited from the google colab directly so if you are using it from git hub you can be able to opne the collab notebook directly there from the link.
-2. one .py file where we changed the path of our dataset so that this can be run from the git bash by command python file.py.
-3. one csv is create as part of the code to givr the data of state and count in which the plot has been generated
-4. As the fig is choropleth added the downloaded png for clarity of plot. 
+1. It has one .ipynb file which is commited from colab to git hub so that from git hub you can click on the link and whould be able to open the file.
+2. It has one .py file by which you can run it using git bash by changing the path with syntax python file.py
+3. It has one csv having the data of the top 5 county having electric vehicle
+4. The plot showing the visualisation of the top 5 county 
