@@ -16,7 +16,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 # Loading the dataset
-vehicleType = pd.read_csv(r"C:\Users\tabs2\Downloads\Programming Assessment\data\Electric-Vehicle-Population-\Electric_Vehicle_Population_Data.csv")
+vehicleType = pd.read_csv(r"C:\Users\tabs2\Downloads\Programming Assessment\Electric-Vehicle-Population-\Electric_Vehicle_Population_Data.csv")
 # Printing and analyzing the data
 vehicleType
 
